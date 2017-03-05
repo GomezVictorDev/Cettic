@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/MonoBehaviour/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Code/MonoBehaviour/LevelManager.cs" Line="54" Column="20" />
+      <File FileName="Assets/Code/MonoBehaviour/CanTakeDamage.cs" Line="5" Column="1" />
+      <File FileName="Assets/Code/MonoBehaviour/RoadRoutes.cs" Line="17" Column="16" />
+      <File FileName="Assets/Code/MonoBehaviour/CharacterBehaviour.cs" Line="199" Column="40" />
+      <File FileName="Assets/Code/MonoBehaviour/SpherePoint.cs" Line="54" Column="3" />
+      <File FileName="Assets/Code/MonoBehaviour/CharacterFollow.cs" Line="14" Column="3" />
+      <File FileName="Assets/GUIManager.cs" Line="21" Column="35" />
+      <File FileName="Assets/Code/MonoBehaviour/EndTrigguer.cs" Line="17" Column="3" />
+      <File FileName="Assets/InputController.cs" Line="7" Column="17" />
+      <File FileName="Assets/Buttons.cs" Line="12" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

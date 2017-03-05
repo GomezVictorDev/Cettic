@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{320C8124-CD00-A64C-4EF3-35C308D63A7C}") = "CetticTest", "Assembly-CSharp.csproj", "{F10D7B7D-1491-9649-1F73-BA41E3060DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10D7B7D-1491-9649-1F73-BA41E3060DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10D7B7D-1491-9649-1F73-BA41E3060DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10D7B7D-1491-9649-1F73-BA41E3060DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10D7B7D-1491-9649-1F73-BA41E3060DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
